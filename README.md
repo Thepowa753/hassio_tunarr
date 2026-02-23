@@ -6,9 +6,13 @@
 
 My personal collection of Home Assistant add-ons. Currently includes:
 
-### [Tunarr](tunarr/)
+### [Tunarr](https://github.com/Thepowa753/hassio_tunarr)
 
 Turn your local media library into full-fledged IPTV channels.
+
+### [MeTube](https://github.com/Thepowa753/hassio_metube)
+
+Download videos/playlists from youtube and other 
 
 ## Installation
 
