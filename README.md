@@ -1,4 +1,4 @@
-# Tunarr – Home Assistant Add-ons by Thepowa753
+# Tunarr – Home Assistant Add-on
 
 > **Disclaimer:** This repository is not affiliated with, endorsed by, or officially connected to the [Tunarr](https://github.com/chrisbenincasa/tunarr) project or its authors.
 
