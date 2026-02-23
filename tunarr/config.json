@@ -19,6 +19,7 @@
   },
   "webui": "http://[HOST]:[PORT:8000]",
   "map": [
-    "config:rw"
+    "config:rw",
+    "media:rw"
   ]
 }
